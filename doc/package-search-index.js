@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.ncsu.csc216.pack_scheduler.ui"}];updateSearchResults();
